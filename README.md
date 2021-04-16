@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there 👋, I'm Oyamo Brian
 
-<!--
-**oyamoh-brian/oyamoh-brian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Mobile and back-end developer.
 
-Here are some ideas to get you started:
+### Skills
+- Golang
+- Kotlin
+- Nodejs
+- Bash
+- Java
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Facts
+
+- 🔭 I’m currently working on **e-resource app for CIT MMU**
+- 🌱 I’m currently learning **Multithreaded Programming**
+- 👯 I’m looking to collaborate on: **SDG Problem Solving Project**
+- 📫 How to reach me: **WhatsApp- +2547 9387 5319; Email - oyamo.xyz@gmail.com**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: **Loves bikes**
+
+
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/oyamoh-brian?style=social"> <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_oyamobrian?style=social">
