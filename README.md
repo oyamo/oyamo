@@ -3,12 +3,8 @@
 A Mobile and back-end developer.
 
 ### Skills
-- Golang
-- Kotlin
-- Nodejs
-- Bash
-- Java
-- Python
+
+<img src="https://cdn.worldvectorlogo.com/logos/golang-gopher.svg" alt="- Golang" height=64 width=64> <img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="- Golang" height=64 width=64> <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="- Golang" height=64 width=64> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="- Golang" height=64 width=64> 
 
 ### Facts
 
@@ -19,5 +15,9 @@ A Mobile and back-end developer.
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **Loves bikes**
 
+### &#x1f4c8; My Github Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oyamoh-brian&hide=html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Oyamo's Github Stats](https://github-readme-stats.vercel.app/api/?username=oyamoh-brian&hide=html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/oyamoh-brian?style=social"> <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_oyamobrian?style=social">
