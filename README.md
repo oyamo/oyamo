@@ -10,7 +10,7 @@ A Mobile and back-end developer.
 
 ### Facts
 
-- 🔭 I’m currently working on **cgo bindings**
+- 🔭 I’m currently working on **cgo bindings for ffmpeg video transconding**
 - 🌱 I’m currently learning **Adaptive Video Streaming (HLS) using Go Bindings for FFMPEG C libraries**
 - 👯 I’m looking to collaborate on: **SDG Problem Solving Project**
 - 📫 How to reach me: **WhatsApp- +2547 9387 5319; Email - oyamo.xyz@gmail.com**
