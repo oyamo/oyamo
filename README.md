@@ -18,7 +18,7 @@ A Mobile and back-end developer.
 - ⚡ Fun fact: **Loves bikes**
 
 ### &#x1f4c8; My Github Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oyamoh-brian&hide=html,css,php,python,Java,Java+Script&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oyamoh-brian&hide=html,css,php,python,Java,javascript&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Oyamo's 2021 Github Stats](https://github-readme-stats.vercel.app/api/?username=oyamoh-brian&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
