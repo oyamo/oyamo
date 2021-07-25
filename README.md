@@ -20,6 +20,5 @@ A Mobile and back-end developer.
 ### &#x1f4c8; My Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oyamoh-brian&hide=html,css,php,python,Java,javascript,ruby,pug&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Oyamo's 2021 Github Stats](https://github-readme-stats.vercel.app/api/?username=oyamoh-brian&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/oyamoh-brian?style=social"> <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_oyamobrian?style=social">
