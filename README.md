@@ -21,4 +21,4 @@ A Mobile and back-end developer.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oyamo&hide=html,css,php,python,Java,C,ruby,pug,C++,CMake,Makefile,ipynb,Jupyter+notebook,CPP,C/C++&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/oyamo?style=social"> <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_oyamobrian?style=social">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/oyamo?style=social"> <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/oyamokt?style=social">
