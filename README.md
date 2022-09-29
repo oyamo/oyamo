@@ -4,7 +4,11 @@ A Mobile and back-end developer.
 
 ### Skills
 
-<img src="https://cdn.worldvectorlogo.com/logos/golang-gopher.svg" alt="- Golang" height=64 width=64> <img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="- Golang" height=64 width=64> <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="- Golang" height=64 width=64> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="- Golang" height=64 width=64> <img src="https://cdn.worldvectorlogo.com/logos/graphql-logo-2.svg" alt="- Golang" height=64 width=64> <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="- Golang" height=64 width=64> <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="- Golang" height=64 width=64> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="- Golang" height=64 width=64> 
+<img src="https://cdn.worldvectorlogo.com/logos/golang-gopher.svg" alt="- Golang" height=64 width=64>
+<img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="- Golang" height=64 width=64> 
+<img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="- Golang" height=64 width=64>
+<img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" alt="- Golang" height=64 width=64>
+<img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="- Golang" height=64 width=64>
 
 
 
