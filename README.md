@@ -6,6 +6,7 @@ Mobile and back-end developer.
 ### Skills
 ![Hashnode](https://img.shields.io/badge/Kotlin-2962FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Golang](https://img.shields.io/badge/GOLANG-2962FF?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/RUST-2962FF?style=for-the-badge&logo=rust&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-23DD0031?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-2962FF?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-2962FF?style=for-the-badge&logo=terraform&logoColor=white)
