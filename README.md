@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/34618315?v=4" width="300" height="300" align="right"><br>
+<img src="https://github.com/oyamo/oyamo/blob/main/devcard.svg" width="300" height="300" align="right"><br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Oyamo+Brian)](https://git.io/typing-svg)
 
 Mobile and back-end developer.
