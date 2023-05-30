@@ -1,4 +1,4 @@
-<img src="https://github.com/oyamo/oyamo/blob/main/devcard.svg" width="300" height="300" align="right"><br>
+<img src="https://github.com/oyamo/oyamo/blob/main/oyamo.png?raw=true" width="230" height="300" align="right"><br>
 
 Cloud Native & Distributed Systems Developer.
 
