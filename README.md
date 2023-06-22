@@ -4,7 +4,6 @@ Cloud Native & Distributed Systems Developer.
 
 ### Contacts
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oyamoh-brian/)
-[![Figma](https://img.shields.io/badge/-Figma-2962FF?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com/@oyamo) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)]([https://stackoverflow.com/users/15744375](https://stackoverflow.com/users/9688017/oyamo)) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/oyamokt)
 
